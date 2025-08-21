@@ -1,0 +1,47 @@
+🛒 AMAZON CLONE - QUICK START GUIDE
+==================================
+
+📁 FILES INCLUDED:
+- index.html     (Main application file - DOUBLE-CLICK TO START)
+- styles.css     (All styling and design)
+- script.js      (Application functionality)
+- data.js        (Product data and storage)
+- launch.sh      (Mac/Linux launcher script)
+- README.md      (Detailed documentation)
+
+🚀 HOW TO RUN:
+1. Double-click on "index.html" to open in your browser
+2. Or drag "index.html" into any browser window
+3. On Mac/Linux: Run "./launch.sh" in terminal
+
+🔑 DEMO ACCOUNTS:
+Admin Account:
+- Email: admin@amazonclone.com
+- Password: admin123
+
+User Account:
+- Email: john@example.com  
+- Password: password123
+
+✨ FEATURES TO TRY:
+- Browse products by category
+- Search for products
+- View product details
+- Add items to shopping cart
+- Create new account or login
+- Place orders and view order history
+- Responsive design (try on mobile!)
+
+📱 BROWSER REQUIREMENTS:
+- Chrome, Firefox, Safari, or Edge
+- JavaScript enabled
+- Internet connection (for product images)
+
+🛠️ TROUBLESHOOTING:
+- If images don't load, check internet connection
+- If data doesn't save, enable localStorage in browser
+- Press F12 to open developer tools for debugging
+
+📖 For detailed documentation, see README.md
+
+Happy Shopping! 🛍️
